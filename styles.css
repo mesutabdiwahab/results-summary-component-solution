@@ -1,24 +1,24 @@
 @font-face {
   font-family: 'hanken_groteskregular';
-  src: url('/assets/fonts/hankengrotesk-variablefont_wght-webfont.woff2') format('woff2'),
-    url('/assets/fonts/hankengrotesk-variablefont_wght-webfont.woff') format('woff');
+  src: url('./assets/fonts/hankengrotesk-variablefont_wght-webfont.woff2') format('woff2'),
+    url('./assets/fonts/hankengrotesk-variablefont_wght-webfont.woff') format('woff');
   font-weight: 400 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'HankenGrotesk-Bold.ttf';
-  src: url('assets/fonts/static/HankenGrotesk-Bold.ttf');
+  src: url('./assets/fonts/static/HankenGrotesk-Bold.ttf');
 }
 
 @font-face {
   font-family: 'HankenGrotesk-ExtraBold.ttf';
-  src: url('assets/fonts/static/HankenGrotesk-ExtraBold.ttf');
+  src: url('./assets/fonts/static/HankenGrotesk-ExtraBold.ttf');
 }
 
 @font-face {
   font-family: 'HankenGrotesk-Medium.ttf';
-  src: url('assets/fonts/static/HankenGrotesk-Medium.ttf');
+  src: url('./assets/fonts/static/HankenGrotesk-Medium.ttf');
 }
 
 :root {
